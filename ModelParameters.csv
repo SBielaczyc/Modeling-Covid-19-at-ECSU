@@ -1,0 +1,10 @@
+Type,Value,Parameter,Description
+Range,1.06 (1.1 to 2.0),R0,Number of indiciduals an infected person infects 
+Range,7 (6 to 8),i.dur,Infected duration
+Fixed,14,q.time,Time in quarantine
+Fixed,0.25,t.prop,Proportion of individuals who are tested (was q.rate)
+Fixed,7,q.freq,"Quarantine frequency, how often are people tested"
+Fixed,0.0224,h.rate,Hospitilization rate
+Fixed,7,h.dur,"Hospitalization duration, how long do individuals need to spend In the hospital"
+Fixed,0.0006,cfr,Case Fatality Rate
+Range,3 (2 to 4),e.dur,"Exposed duration, how long before an individual becomes infectious "
