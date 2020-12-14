@@ -1,0 +1,8 @@
+﻿Value,Parameter,Description
+1595,s.num,The number of individuals in the susceptible compartment
+5,e.num,The number of individuals in the exposed compartment
+0,i.num,The number of individuals in the infectious compartment
+0,q.num,The number of individuals in the quarantined compartment
+0,h.num,The number of individuals in the hospitalized compartment
+0,f.num,The number of individuals in the fatalities compartment
+0,r.num,The number of individuals in the recovered compartment
